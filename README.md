@@ -18,6 +18,7 @@
   
 ```
 
+## **My stats 🆙**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikaroskurtz&label=Profile%20views&color=0e75b6&style=flat" alt="ikaroskurtz" /> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,6 +28,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaroskurtz&theme=synthwave&layout=compact"/>
 </a>
+
+## **Social media 🌐**
 
 You can find me 🔎:
  - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="15" width="25"/>[Tiwtter](https://twitter.com/IkarosKurtz)
