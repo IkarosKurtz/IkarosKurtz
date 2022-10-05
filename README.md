@@ -29,6 +29,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaroskurtz&theme=synthwave&layout=compact"/>
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=IkarosKurtz&layout=compact&theme=synthwave"/>
+</a>
 ## **Social media 🌐**
 
 You can find me 🔎:
