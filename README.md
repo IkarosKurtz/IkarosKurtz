@@ -2,7 +2,7 @@
 
 ```js
   const IkarosKurtz = {
-    languages: ["JavaScript", "Python", "C++", "C#", "CSS", "HTML"],
+    languages: ["JavaScript", "Python", "C++", "C#", "CSS", "HTML", "Java"],
     frameworks: ["React", "Vine", "Node.js"],
     pronouns: "He" | "Him",
     databases: ["MongoDB"],
