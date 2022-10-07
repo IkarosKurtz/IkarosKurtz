@@ -37,3 +37,7 @@
 
 You can find me 🔎:
  - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="15" width="25"/>[Tiwtter](https://twitter.com/IkarosKurtz)
+
+
+### **Fun fact 🎉**
+I fixed a program causing a syntax error on purpose
