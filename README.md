@@ -66,7 +66,7 @@ I'm Carlos Leonardo Cruz Ortiz (IkarosKurtz), a passionate programmer and develo
 
 # Projects 🚀
 
-## [👨‍💻 CodeLauncher](code-launcher.netlify.app)
+## [👨‍💻 CodeLauncher](https://code-launcher.netlify.app)
 The Essential Windows App for Developers! Streamline your project management with ease, using a variety of frameworks like Vite, Angular, Python, and Rust, without ever touching a terminal. Customize project icons for quick recognition, open them in VSCode with a double-click, and manage files effortlessly in one central hub. Simplify your development process with CodeLauncher, where efficiency meets convenience.
 
 Is currently in development, but you can download the beta version.
