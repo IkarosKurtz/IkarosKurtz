@@ -2,6 +2,8 @@
 
 I'm Carlos Leonardo Cruz Ortiz (IkarosKurtz), a passionate programmer and developer from Mexico. I'm currently studying at Universidad Autónoma de Aguascalientes (UAA). I seek to innovate  in the world of technology and programming, more specifically in the AI and Machine Learning.
 
+🎉 fun fact: I'm a syntax error. 🤖
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IkarosKurtz&label=Profile%20views&color=0e75b6&style=flat" alt="IkarosKurtz" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -64,14 +66,18 @@ I'm Carlos Leonardo Cruz Ortiz (IkarosKurtz), a passionate programmer and develo
 
 # Projects 🚀
 
-## [📚 CodeLauncher](code-launcher.netlify.app)
+## [👨‍💻 CodeLauncher](code-launcher.netlify.app)
 The Essential Windows App for Developers! Streamline your project management with ease, using a variety of frameworks like Vite, Angular, Python, and Rust, without ever touching a terminal. Customize project icons for quick recognition, open them in VSCode with a double-click, and manage files effortlessly in one central hub. Simplify your development process with CodeLauncher, where efficiency meets convenience.
 
-<img>
+Is currently in development, but you can download the beta version.
 
-## [📚 DDLC Worlds Apart](https://github.com/IkarosKurtz/DDLC-Worlds-Apart)
+<img src="https://raw.githubusercontent.com/IkarosKurtz/IkarosKurtz/Master/static/icon.png" alt="CodeLauncher Icon" width="200px" height="200px" />
+
+## [💖 DDLC Worlds Apart](https://github.com/IkarosKurtz/DDLC-Worlds-Apart)
 Immerse yourself in an unparalleled dialogue experience with the members of the Literature Club. DDLC Worlds Apart extends beyond pre-scripted responses, introducing fluid, generative, and memory-rich interactions.
 
 DDLC Worlds Apart reimagines the way you engage with the Literature Club members. While the current version places you in the familiar clubroom, future iterations will unveil more environments and opportunities for exploration.
 
-<img>
+Is currently in development, but you can download the alpha version.
+
+<img src="https://raw.githubusercontent.com/IkarosKurtz/IkarosKurtz/Master/static/placeholder.png" alt="DDLC Worlds Apart Icon" />
