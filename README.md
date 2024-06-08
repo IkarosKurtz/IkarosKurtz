@@ -83,5 +83,5 @@ Is currently in development, but you can download the alpha version.
 <img src="https://raw.githubusercontent.com/IkarosKurtz/IkarosKurtz/Master/static/placeholder.png" alt="DDLC Worlds Apart Icon" />
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/IkarosKurtz/IkarosKurtz/blob/Master/static/chibi.jpeg?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100%; opacity: 0.5; background: url('https://github.com/IkarosKurtz/IkarosKurtz/blob/Master/static/chibi.jpeg?raw=true');]{x0000}$}
 ```
