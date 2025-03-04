@@ -8,10 +8,12 @@ I'm Carlos Leonardo Cruz Ortiz (IkarosKurtz), a passionate programmer and develo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/IkarosKurtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IkarosKurtz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ikaroskurtz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IkarosKurtz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCCgk45o_i1zyl_v74eMP7LQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="IkarosKurtz" height="30" width="40" /></a>
+<a href="https://twitter.com/ikaroskurtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikaroskurtz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlos leonardo cruz ortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos leonardo cruz ortiz" height="30" width="40" /></a>
+<a href="https://kaggle.com/ikaroskurtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ikaroskurtz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ikaroskurtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ikaroskurtz" height="30" width="40" /></a>
 </p>
+
 
 
 <p style="display: inline-block;" align="center">
@@ -19,40 +21,69 @@ I'm Carlos Leonardo Cruz Ortiz (IkarosKurtz), a passionate programmer and develo
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> 
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"/>
   </kbd>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img width='30px' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+    <img width='30px' src="https://angular.io/assets/images/logos/angular/angular.svg" /> 
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
   </kbd>
   <br>
   <kbd>
     <kbd>Languages</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width='45px' src="https://www.chartjs.org/media/logo-title.svg"/> 
+    <img width='45px' src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"/> 
+  </kbd>
+  <kbd>
+    <kbd>Programs</kbd>
+    <br>
+    <br>
+    <img width='30px' src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+    <img width='30px' src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width='40px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+    <img width='40px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>AI Frameworks And Data Visualizer</kbd>
+    <br>
+    <br>
+    <img width='30px' src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"/>
+    <img width='30px' src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
+    <img width='30px' src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/>
+    <img width='40px' src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+    <img width='30px' src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
+    <img width='30px' src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
   </kbd>
 </p>
 
