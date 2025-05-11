@@ -113,6 +113,7 @@ Is currently in development, but you can download the alpha version.
 
 <img src="https://raw.githubusercontent.com/IkarosKurtz/IkarosKurtz/Master/static/placeholder.png" alt="DDLC Worlds Apart Icon" />
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; object-fit: cover; background-size: contain; height: 100vh;  width: 100vw;  opacity: 0.5; background: url('https://github.com/IkarosKurtz/IkarosKurtz/blob/Master/static/obed.jpeg?raw=true');]{x0000}$}
-```
+## [🌎 WorldNavigator](https://github.com/IkarosKurtz/WorldNavigator)
+WorldNavigator is a Python project for creating and navigating virtual worlds with simulated time and weather. It includes three main classes: `WorldParser` for loading worlds from JSON files, `WorldWeather` for simulating weather conditions, and `World` for managing locations and characters. Ideal for use in Ren'Py or Python games.
+
+Still under development.
